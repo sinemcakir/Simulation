@@ -11,7 +11,7 @@ namespace Simulation
 		public string Name { get; set; }
 		public int Health { get; set; }
 		public int AttackPower { get; set; }
-		public int Position { get; set; } // Düşman veya kahramanın bulunduğu konum
+		public int Position { get; set; } 
 
 		public Character(string name, int health, int attackPower, int position)
 		{
