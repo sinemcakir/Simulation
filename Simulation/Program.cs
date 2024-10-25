@@ -16,7 +16,7 @@ namespace Simulation
 			List<Character> enemies = new List<Character>
 		{
 			new Character("Böcek", 50, 10, 1524),  // İlk düşman 50 HP, 10 saldırı gücü, 1000 metre konum
-            new Character("Aslan", 75, 15, 2546),   // İkinci düşman 75 HP, 15 saldırı gücü, 3000 metre konum
+                        new Character("Aslan", 75, 15, 2546),   // İkinci düşman 75 HP, 15 saldırı gücü, 3000 metre konum
 			new Character("Zombi", 120,20,4500),
 			new Character("Mutant", 50,5,500),
 		};
